@@ -1,13 +1,13 @@
 # SpreeMilia
 
-Introduction goes here.
+This extension of Spree Commerce project is intended to provide multi tenancy functionality using the same database.
 
 ## Installation
 
 1. Add this extension to your Gemfile with this line:
 
     ```ruby
-    gem 'spree_milia', github: '[your-github-handle]/spree_milia'
+    gem 'spree_milia', github: 'rathanlal/spree_milia'
     ```
 
 2. Install the gem using Bundler
